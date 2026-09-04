@@ -1,1 +1,1 @@
-A simple chantbot developed using Angular and AWS Bedrock
+A simple chatbot developed using Angular and AWS Bedrock
